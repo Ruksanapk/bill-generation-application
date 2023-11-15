@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "749926104874",
+    "project_id": "signup-login-e7e0a",
+    "storage_bucket": "signup-login-e7e0a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:749926104874:android:19d14a8155c96487126853",
+        "android_client_info": {
+          "package_name": "com.example.billingfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "749926104874-9t6vq2sngbvf7aad2j75tqkrorck182u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhe-y6G-kIh3OYuFo4HehLpKXo6RYblOI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "749926104874-9t6vq2sngbvf7aad2j75tqkrorck182u.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "749926104874-8n7527eehcvojhm5d61mbtt6eveetevd.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.billingfirebase"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
